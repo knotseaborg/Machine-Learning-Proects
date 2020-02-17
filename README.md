@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-This repo consists of links to my Google colaboratory projects
+This repo consists of my Google colaboratory projects and tutorials
